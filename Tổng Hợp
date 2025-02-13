@@ -1,4 +1,4 @@
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/sta210110/Zssf/refs/heads/main/Link%20TH')))()
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/stamp40/ttg/refs/heads/main/mp40')))()
 
 local Window = OrionLib:MakeWindow({Name = "sta gamer✅️", HidePremium = false, SaveConfig = true, ConfigFolder = "dxl_bf"})
 
